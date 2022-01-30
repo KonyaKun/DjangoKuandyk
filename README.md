@@ -1,0 +1,2 @@
+# DjangoKuandyk
+TMP
